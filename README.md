@@ -55,8 +55,7 @@ This project provides an executive-level performance overview for Nvidia's hardw
 1. Clone the Repository:
 
 ```
-git clone [https://github.com/your-username/nvidia-sales-analytics.git]
-(https://github.com/your-username/nvidia-sales-analytics.git)
+git clone https://github.com/Kartikey-Gehra4994/Nvidia-sales-Analysis.git
 cd nvidia-sales-analytics
 ```
 
@@ -85,6 +84,4 @@ python scripts/data_cleaning.py
 # 👤 Author
 Name: kartikey Gehra
 
-LinkedIn: [Your LinkedIn Profile Link]
-
-Portfolio: [Your Portfolio Website / GitHub Link]
+LinkedIn: https://www.linkedin.com/in/kartikey-gehra-11b259344/
