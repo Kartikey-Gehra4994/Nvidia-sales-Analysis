@@ -4,6 +4,9 @@ An end-to-end data analytics project analyzing Nvidia's global sales, product ca
 
 ---
 
+![Alt text](Screenshot 2026-09-19 121056.png)
+
+
 ## 📌 Project Overview
 This project provides an executive-level performance overview for Nvidia's hardware and business segments. The primary objective is to evaluate revenue drivers, track marketing ROI, analyze competitor landscape, and understand global AI/ML adoption trends to support strategic business decision-making.
 
