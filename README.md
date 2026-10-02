@@ -4,7 +4,7 @@ An end-to-end data analytics project analyzing Nvidia's global sales, product ca
 
 ---
 
-![Alt text](Screenshot 2026-09-19 121056.png)
+![Alt text](https://github.com/Kartikey-Gehra4994/Nvidia-sales-Analysis/blob/a98743423f64ea1a49c078ee7efb26294deae187/Screenshot%202026-09-19%20121056.png)
 
 
 ## 📌 Project Overview
